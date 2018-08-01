@@ -23,7 +23,7 @@ __Advanced Usage:__
 3. split.cu: image splitting by combining predefined and custom kernels.
 
 ## Requirements
-These examples require Open CV and CUDA to be installed on your system. The examples were tested with Open CV 3.2, CUDA 8.0 on Ubuntu 14.04 LTS.
+These examples require Open CV and CUDA to be installed on your system. Additionally, CMake is required for building. The examples were tested with Open CV 3.2, CUDA 8.0 on Ubuntu 14.04 LTS.
 
 ## Building
 To build the examples is done as follows.
